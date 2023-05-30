@@ -9,6 +9,8 @@ echo "27/05/2023";
 
 ?>
 
+
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -25,6 +27,8 @@ echo "27/05/2023";
 <?php
 
 echo 12+17-22;
+
+
 
 ?>
 
